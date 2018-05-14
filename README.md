@@ -3,7 +3,6 @@ I have replciated the Medium App Navigation menu and the Home page withs ligh mo
 
 Below are the Screenshots
 
-![alt text](https://user-images.githubusercontent.com/3199282/40000278-688ef686-5759-11e8-97b1-42067cc70991.png)
-![alt text](https://user-images.githubusercontent.com/3199282/40000288-6c90b756-5759-11e8-9a8c-cf027b833c5b.png)
-![alt text](https://user-images.githubusercontent.com/3199282/40000289-6d69057a-5759-11e8-8b23-1bb7a1b29c31.png)
-![alt text](https://user-images.githubusercontent.com/3199282/40000287-6bbd7de6-5759-11e8-9695-62037c384099.png)
+![alt text](https://user-images.githubusercontent.com/3199282/40002078-a4776eea-575d-11e8-8442-2219bbc3f003.png)
+![alt text](https://user-images.githubusercontent.com/3199282/40002082-a64edf5a-575d-11e8-9900-0d470de7dfc9.png)
+![alt text](https://user-images.githubusercontent.com/3199282/40002081-a5866304-575d-11e8-85e6-b3410878d4a8.png)
