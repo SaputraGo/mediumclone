@@ -18,8 +18,11 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <!-- Navigation Drawer Theme -->
     <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
         <item name="spinBars">true</item>
+        <item name="android:textSize">20sp</item>
         <item name="color">@android:color/white</item>
     </style>
+
 </resources>
